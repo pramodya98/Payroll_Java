@@ -1,2 +1,1 @@
-# Payroll_Java
-A Java Payroll System is a software application built using the Java programming language to manage payroll and employee compensation processes within an organization. 
+A Java Payroll System is a versatile and efficient solution designed to streamline and automate the complexities of payroll management for businesses of all sizes. This software leverages the capabilities of the Java programming language to provide a robust, secure, and user-friendly platform for handling payroll-related tasks.
